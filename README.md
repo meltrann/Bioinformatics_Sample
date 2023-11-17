@@ -1,4 +1,4 @@
-# Bioinformatics_Sample
+# Bioinformatics Data Processing and Visualization
 
 This repository contains sample work demonstrating data processing and visualization tasks for Bioinformatics data. The provided files are as follows:
 
